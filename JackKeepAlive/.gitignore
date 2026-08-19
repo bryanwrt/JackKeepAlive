@@ -1,0 +1,18 @@
+# Build
+[Bb]in
+[Oo]bj
+
+# Visual Studio
+.vs
+.user
+.suo
+
+# Rider
+.idea
+
+# Logs
+.log
+
+# OS
+.DS_Store
+Thumbs.db
