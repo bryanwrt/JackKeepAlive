@@ -16,6 +16,7 @@
     <PublishSingleFile>true</PublishSingleFile>
     <SelfContained>false</SelfContained>
     <PublishTrimmed>false</PublishTrimmed>
+    <ApplicationIcon>JackKeepAlive.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
